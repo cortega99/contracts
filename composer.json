@@ -1,5 +1,5 @@
 {
-    "name": "orchestra/contracts",
+    "name": "cortega99/contracts",
     "description": "Contracts for Orchestra Platform",
     "keywords": ["orchestra-platform", "orchestral", "contracts"],
     "license": "MIT",
@@ -17,7 +17,7 @@
     },
     "require": {
         "php": "^8.0",
-        "illuminate/contracts": "^9.0"
+        "illuminate/contracts": "^10.0"
     },
     "extra": {
         "branch-alias": {
